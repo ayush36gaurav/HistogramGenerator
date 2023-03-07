@@ -1,6 +1,6 @@
 The main code for the 1D Histogram Generator is in the file "OneD_HistogramGenerator.cpp".
 
-The code best runs on an IDE such as VS Code wherein it prompts the use for inputs in order to take arguments.
+The code best runs on an IDE such as VS Code wherein it prompts the user for inputs in order to take arguments.
 
 Details about Unit Testing of the code:-
 1. I have performed unit testing for all functions in the Data and Reader class.
