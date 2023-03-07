@@ -20,7 +20,7 @@ jobs:
       run: ./Data_VectorClass_UnitTest.cpp
       
     - name: unit test2
-      run: Data_FourVectorClass_UnitTest.cpp
+      run: ./Data_FourVectorClass_UnitTest.cpp
       
     - name: unit test3
-      run: Reader_Readfile_UnitTest.cpp
+      run: ./Reader_Readfile_UnitTest.cpp
