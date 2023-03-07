@@ -3,7 +3,7 @@
    Institute: IIT Mandi, India */
 
 /* Breif Overview of the Implementation
-The code best runs on an IDE such as VS Code wherein it prompts the use for inputs in order to take arguments.
+The code best runs on an IDE such as VS Code wherein it prompts the user for inputs in order to take arguments.
 1. Since the problem statement asks to create a Data class so, I have created a data class which has no members and from it the Vector class is 
 inherited. The FourVector class is further derived from the vector class
 2. I have created a Reader class which reads and sets the data as an array (vector) whose elements belong to the FourVectoe class
