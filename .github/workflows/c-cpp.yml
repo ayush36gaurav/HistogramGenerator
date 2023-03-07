@@ -16,11 +16,11 @@ jobs:
     - name: configure
       run: ./OneD_HistogramGenerator.cpp
     
-    - name: unit test1
+    - name: Unit Test1
       run: ./Data_VectorClass_UnitTest.cpp
       
-    - name: unit test2
+    - name: Unit Test2
       run: ./Data_FourVectorClass_UnitTest.cpp
       
-    - name: unit test3
+    - name: Unit Test3
       run: ./Reader_Readfile_UnitTest.cpp
