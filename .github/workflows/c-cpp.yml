@@ -16,9 +16,11 @@ jobs:
     - name: configure
       run: ./OneD_HistogramGenerator.cpp
     
-#     - name: make
-#       run: make
-#     - name: make check
-#       run: make check
-#     - name: make distcheck
-#       run: make distcheck
+    - name: unit test1
+      run: ./Data_VectorClass_UnitTest.cpp
+      
+    - name: unit test2
+      run: Data_FourVectorClass_UnitTest.cpp
+      
+    - name: unit test3
+      run: Reader_Readfile_UnitTest.cpp
