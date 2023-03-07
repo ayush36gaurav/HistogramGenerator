@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 # include <string>
 #include <math.h>
-#include "DataClass.h"
+#include "UnitTestHeader.h"
 using namespace std;
 
 void test_setVectorData(float *expected_arr, float *actual_arr, string testName)
