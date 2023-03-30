@@ -2,7 +2,7 @@
    E-mail: b21183@students.iitmandi.ac.in
    Institute: IIT Mandi, India */
 
-/* Breif Overview of the Implementation
+/* Brief Overview of the Implementation
 The code best runs on an IDE such as VS Code wherein it prompts the user for inputs in order to take arguments.
 1. Since the problem statement asks to create a Data class so, I have created a data class which has no members and from it the Vector class is 
 inherited. The FourVector class is further derived from the vector class
@@ -12,7 +12,7 @@ inherited. The FourVector class is further derived from the vector class
 */
 
 
-// Imperting header file and specifying namespace
+// Importing header file and specifying namespace
 #include<bits/stdc++.h>
 #include <math.h>
 #include <fstream>
